@@ -13,5 +13,3 @@ Welcome to my GitHub profile! I'm a first-year Computer Science student at the Z
 📫 You can reach me here on GitHub.
 
 Feel free to check out my projects and follow my journey! 🚀  
-
-Looking forward to collaborating on exciting projects! 
